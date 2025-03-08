@@ -1,6 +1,7 @@
 {
   "name": "test-parcel",
   "version": "1.0.0",
+  "homepages": "https://zxcmimis.github.io/test-parcel/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel ./src/index.html",
